@@ -1,0 +1,7 @@
+{
+	"client_id": "c5c........7bb",
+	"client_secret": "uxt......*_",
+	"redirect_uri": "http://localhost/",
+	"scope": "user.read%20mail.readwrite%20mail.send",
+	"refresh_token": "Asdsds.....kskf2"
+}

@@ -1,0 +1,8 @@
+{
+	"dev": {
+		"url": "http://localhost:8086/write?",
+		"db": "mydb",
+		"user": "",
+		"pass": ""
+	}
+}

@@ -1,0 +1,6 @@
+{
+ 	"error": {
+ 		"threshold": 3,
+ 		"timePeriod": [3, 0]
+ 	}
+ }
